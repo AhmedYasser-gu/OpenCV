@@ -1,2 +1,2 @@
 # OpenCV
-C++ Test project
+Simple C++ testing with OpenCV
